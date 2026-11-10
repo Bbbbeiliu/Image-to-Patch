@@ -1,0 +1,10 @@
+numpy==1.26.4
+opencv-python-headless>=4.10,<4.11
+scipy>=1.10,<2
+matplotlib>=3.7,<4
+PyQt5>=5.15,<6
+shapely==2.1.2
+geomdl==5.4.0
+ezdxf==1.4.2
+rectpack==0.2.2
+tqdm>=4.65,<5

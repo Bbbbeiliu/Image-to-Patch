@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+/data/
+/weights/
+/runs/
+examples/generated/
+benchmark/vendor/
+benchmark/pretrained/
+benchmark/torch_cache/
+benchmark/dataset_lock*.json
+*.pth
+*.pt
+*.npz
+*.log

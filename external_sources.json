@@ -1,0 +1,20 @@
+[
+  {
+    "name": "TransUNet",
+    "repository": "https://github.com/Beckschen/TransUNet.git",
+    "commit": "02ef0010b36eb8328b5e689eadaf613602edf9b8",
+    "destination": "benchmark/vendor/TransUNet"
+  },
+  {
+    "name": "PANet",
+    "repository": "https://github.com/kaixin96/PANet.git",
+    "commit": "1695bf37c2f7585323e09cfcfb3bef8d4fff1b86",
+    "destination": "benchmark/extended_baselines/panet/vendor"
+  },
+  {
+    "name": "SAMed",
+    "repository": "https://github.com/hitachinsk/SAMed.git",
+    "commit": "e351840481f51d0c7dee50007f29d02197b63d99",
+    "destination": "benchmark/extended_baselines/samed/vendor"
+  }
+]
